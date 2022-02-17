@@ -1,4 +1,5 @@
 # EXP stats as of 2/17/22
+# Excludes weekly missions
 tier1 = 20000
 tier2 = 30000 + tier1
 tier3 = 40000 + tier2
