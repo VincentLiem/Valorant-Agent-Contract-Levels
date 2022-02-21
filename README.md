@@ -1,4 +1,4 @@
 # Valorant-Agent-Contract-Levels
-# Third Party Packages
-# requests
-# BeautifulSoup
+Third Party Packages
+requests
+BeautifulSoup
