@@ -1,3 +1,9 @@
+import requests
+from bs4 import BeautifulSoup
+
+exp_data = requests.get("https://valorant.fandom.com/wiki/Experience")
+soup = BeautifulSoup(exp_data.content, "html.parser")
+
 # EXP stats as of 2/17/22
 # Excludes weekly missions
 tier1 = 20000
